@@ -1,4 +1,4 @@
-# cineGIF
+# cineGIF (WIP)
 
 - Convert movie to gif by using susbtitle timecodes
 - Requres node.js FFmpeg ImageMagik
