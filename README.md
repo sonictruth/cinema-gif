@@ -1,4 +1,4 @@
-# cineGIF (WIP)
+# cinema-gif (WIP)
 
 
 - Convert movies to animated GIF sequences by using subtitle timecodes
